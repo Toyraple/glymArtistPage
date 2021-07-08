@@ -7,17 +7,17 @@ body {
 #header {
     width: 50%;
     height: 20%;
-    background-color: #585858
+    background-color: #585858;
 }
 
 #content {
     width: 50%;
     height: 60%;
-    background-color: #b6b6b6
+    background-color: #b6b6b6;
 }
 
 #footer {
     width: 50%;
     height: 20%;
-    background-color: #2a2a2a
+    background-color: #2a2a2a;
 }
