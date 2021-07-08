@@ -3,17 +3,17 @@ body {
     margin:20px;
 }
 
-header {
+#header {
     color: aquamarine;
     height: 100px;
 }
 
-content {
+#content {
     color: brown;
     height: 100px;
 }
 
-footer {
+#footer {
     color: chartreuse;
     height: 100px;
 }
