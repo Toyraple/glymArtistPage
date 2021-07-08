@@ -4,7 +4,7 @@ body {
 }
 
 #header {
-    background-color: aquamarine;
+    background-color: #3ccdd7;
     margin: auto;
     width: 50%;
     height: 30%;
@@ -13,7 +13,7 @@ body {
 }
 
 #content {
-    background-color: brown;
+    background-color: #ff6a00;
     margin: auto;
     width: 50%;
     height: 30%;
@@ -22,7 +22,7 @@ body {
 }
 
 #footer {
-    background-color: chartreuse;
+    background-color: #ff0000;
     margin: auto;
     width: 50%;
     height: 30%;
