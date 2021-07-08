@@ -1,19 +1,19 @@
 body {
-    color:tomato;
+    background-color:tomato;
     margin:20px;
 }
 
 #header {
-    color: aquamarine;
-    height: 100px;
+    background-color: aquamarine;
+    min-height: 100px;
 }
 
 #content {
-    color: brown;
-    height: 100px;
+    background-color: brown;
+    min-height: 100px;
 }
 
 #footer {
-    color: chartreuse;
-    height: 100px;
+    background-color: chartreuse;
+    min-height: 100px;
 }
