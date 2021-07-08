@@ -4,19 +4,19 @@ body {
     background-color: #000000;
 }
 
-#header {
+.header {
     width: 50%;
     height: 20%;
     background-color: #585858;
 }
 
-#content {
+.content {
     width: 50%;
     height: 60%;
     background-color: #b6b6b6;
 }
 
-#footer {
+.footer {
     width: 50%;
     height: 20%;
     background-color: #2a2a2a;
