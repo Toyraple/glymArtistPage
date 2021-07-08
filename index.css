@@ -5,15 +5,15 @@ body {
 
 header {
     color: aquamarine;
-    align-self: center;
+    height: 100px;
 }
 
 content {
     color: brown;
-    align-self: center;
+    height: 100px;
 }
 
 footer {
     color: chartreuse;
-    align-self: center;
+    height: 100px;
 }
