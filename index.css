@@ -1,0 +1,19 @@
+body {
+    color:tomato;
+    margin:20px;
+}
+
+header {
+    color: aquamarine;
+    align-self: center;
+}
+
+content {
+    color: brown;
+    align-self: center;
+}
+
+footer {
+    color: chartreuse;
+    align-self: center;
+}
