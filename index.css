@@ -46,13 +46,20 @@ html, body {
 #body {
     padding: 10px;
     padding-bottom: 60px;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
     background: #873939;
     color: #ffffff;
     font-size: 20px;
     text-align: justify;
     text-justify: inter-word;
+}
+
+#body l1 {
+    font-size: 5vw;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
 }
 
 #body iframe {
