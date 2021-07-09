@@ -57,7 +57,7 @@ html, body {
 
 #body l1 {
     font-size: 5vw;
-    margin: 0 auto;
+    margin: 2% auto 2% 0;
     display: block;
     text-align: center;
 }
@@ -77,8 +77,9 @@ html, body {
 }
 
 #downloadLinks {
+    border-radius: 10px;
     width: 50%;
-    min-width: 400px;
+    min-width: 220px;
     margin-left: auto;
     margin-right: auto;
     background: #1e1e1e;
@@ -87,8 +88,28 @@ html, body {
     margin-bottom: 5%;
 }
 
+#downloadcolumns {
+    margin: 2%;
+    padding: 0,5%,0,5%;
+    width: 45%;
+    min-width: 200px;
+    height: 5%;
+    display: inline-block;
+    vertical-align: top;
+}
+
 #downloadLinks a {
-    color: #ffffff;
+    color: #000000;
+    font-size: calc(9px + 1vw);
+}
+
+#download {
+    border-radius: 5px;
+    background: #ffffff;
+    width: 100%;
+    padding: 1%;
+    margin: 4% auto 4% auto;
+    display: block;
 }
 
 #footer {
